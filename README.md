@@ -7,12 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Graduated+From+ASU;Aspiring+Software+Developer;AI+%7C+ML+%7C+Full-Stack+Dev;Software+Engineer&center=true&width=440&height=45&font=Fira+Code&pause=1000&color=0099FF" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="Jay's GitHub Profile Views"/>
-</p>
 
-🎓 I recently graduated in **May 2025** with a degree in **Information Technology** from **Arizona State University**!  
-🛠️ I believe in building things from the ground up and respecting the fundamentals of how things have always worked — the good old engineering way! ⚙️
+Software Engineer with experience in full-stack development. Recently Graduated Master's in Information Technology at Arizona State University while building innovative projects that solve real-world problems.
 
 ---
 
@@ -27,10 +23,10 @@ Rooted in strong fundamentals, I built my skills brick by brick, just like class
 
 ### 💼 What I Do
 
-- 🔍 Exploring **AI/ML, Web Development, and Embedded Systems**  
-- 📚 Served as a Teaching Assistant at ASU, helping students master core software development concepts and best practices.  
-- 🌐 Built apps like [**Penny Share**](https://github.com/officialjaipanchal/PennyShare), [**ColorSense AI**](https://github.com/officialjaipanchal/ColorSenseAI), and [**LinkedIn Job Tracker**](https://github.com/officialjaipanchal/LinkedIn_JobTracker)  
-- 🧠 Passionate about building tools that are **intelligent, offline-friendly**, and **privacy-focused**
+- Exploring **AI/ML, Web Development, and Embedded Systems**  
+- Served as a Teaching Assistant at ASU, helping students master core software development concepts and best practices.  
+- Built apps like [**Penny Share**](https://github.com/officialjaipanchal/PennyShare), [**ColorSense AI**](https://github.com/officialjaipanchal/ColorSenseAI), and [**LinkedIn Job Tracker**](https://github.com/officialjaipanchal/LinkedIn_JobTracker)  
+- Passionate about building tools that are **intelligent, offline-friendly**, and **privacy-focused**
 
 ---
 
@@ -150,8 +146,9 @@ Rooted in strong fundamentals, I built my skills brick by brick, just like class
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=officialjaipanchal&show_icons=true&theme=tokyonight" alt="Jay's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialjaipanchal&theme=tokyonight" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=officialjaipanchal](https://github-readme-streak-stats.herokuapp.com/?user=officialjaipanchal)&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
 
 ---
