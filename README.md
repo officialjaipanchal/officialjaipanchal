@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jaykumar Suthar
+#  Hello, I'm Jaykumar Suthar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/whojaipanchal/)
 
@@ -111,5 +111,4 @@ Rooted in strong fundamentals, I built my skills brick by brick, just like class
     <img src="https://komarev.com/ghpvc/?username=jsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="Jay's GitHub Profile Views"/>
   <p>Thanks for visiting my profile! 🙏</p>
 </div>
-> "Craft with care, build with reason, and code with heart." ❤️  
-> – Jay
+
