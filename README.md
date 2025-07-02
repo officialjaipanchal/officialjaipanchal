@@ -99,9 +99,6 @@ Rooted in strong fundamentals, I built my skills brick by brick, just like class
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialjaipanchal&show_icons=true&theme=tokyonight" alt="Jay's GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialjaipanchal&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=officialjaipanchal&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true" height="150" alt="Jaipanchal's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=officialjaipanchal&theme=tokyonight" height="150" alt="GitHub Streak" />
   
